@@ -1,0 +1,26 @@
+.background {
+  background-image: url('../../assets/fon.jpg'); /* Путь к вашему изображению */
+  backdrop-filter: blur(5px);
+}
+
+.overlay {
+  color: #333333; /* Цвет текста */
+
+}
+
+.header {
+  margin-bottom: 5px;
+}
+
+h1 {
+  font-size: 36px;
+  margin: 0px;
+}
+
+h2 {
+  margin: 0px;
+}
+
+body {
+  margin: 0px;
+}
